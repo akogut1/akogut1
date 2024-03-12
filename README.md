@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akogut1
-- 👀 I’m interested in Computer information systems and business analytics!
+- 👀 I’m interested in computer information systems and business analytics!
 - 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on hackathon projects!
 - 📫 How to reach me is by LinkedIn: https://www.linkedin.com/in/mandykogut/
