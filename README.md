@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @akogut1
-- 👀 I’m interested in computer information systems and business analytics!
-- 🌱 I’m currently learning Python and Java.
+- 👀 I’m interested in computer information systems, software develoment, AI/ML development, and business analytics!
+- 💻 I am proficient in Python and Java!
+- 🌱 I’m currently learning HTML and JavaScript, briefly working with CSS.
 - 💞️ I’m looking to collaborate on hackathon projects!
 - 📫 How to reach me is by LinkedIn: https://www.linkedin.com/in/mandykogut/
 - 😄 Pronouns: She/Her/Hers
